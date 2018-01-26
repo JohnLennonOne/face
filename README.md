@@ -1,2 +1,2 @@
 # face
-this is a face projects theme.Generally, you don't need it.
+this is a facial projects theme belongs to wondersoft http://www.wondersoft.cn/
